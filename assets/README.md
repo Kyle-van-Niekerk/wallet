@@ -1,0 +1,1 @@
+Wallet is a fictional fintech app created solely to practice and showcase my CSS abilities. It stores credit cards, transit cards, boarding passes, and tickets in one place. This project focuses on responsive design using CSS Grid and Flexbox, aiming to demonstrate clean, modern UI techniques.
