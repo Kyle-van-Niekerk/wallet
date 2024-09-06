@@ -8,6 +8,18 @@ body {
   color: #fff;
 }
 
+h1 {
+  font-size: 3.75rem;
+  font-weight: 600;
+  line-height: 5.625rem;
+}
+
+p {
+  font-size: 1.125rem;
+  line-height: 2rem;
+  opacity: 0.4;
+}
+
 a {
   font-size: 1.125rem;
   line-height: 2rem;
@@ -46,6 +58,51 @@ a:hover {
   border-radius: 15px;
   height: 50px;
   width: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.padding-global {
+  padding: 0 6.25rem;
+}
+
+.hero-content {
+  padding: 4.8125rem 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 7.1875rem;
+}
+
+.hero-text {
+  width: 50%;
+}
+
+.hero-text h1 {
+  margin-bottom: 2.5rem;
+}
+
+.hero-text p {
+  margin-bottom: 4.5rem;
+}
+
+.primary-btn {
+  background-color: #f8d57e;
+  color: #333333;
+  border-radius: 15px;
+  height: 50px;
+  width: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-image-wrapper {
+  border-radius: 20px;
+  background-color: #333333;
+  width: 50%;
+  height: 446px;
   display: flex;
   align-items: center;
   justify-content: center;
